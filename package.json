@@ -1,0 +1,27 @@
+{
+  "name": "bonsaijs",
+  "version": "0.0.2",
+  "description": "The open source framework for developing database-driven websites, applications and APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "http://bonsai.troinof.ru/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etroynov/bonsai.git"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "cms",
+    "mongo",
+    "typescript"
+  ],
+  "author": "Evgeniy Troynov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etroynov/bonsai/issues"
+  },
+  "homepage": "https://github.com/etroynov/bonsai#readme"
+}
